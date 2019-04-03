@@ -6,7 +6,7 @@ const DYNAMIC_CACHE = 'dynamic-v1';
 const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL = [
-
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
@@ -17,14 +17,14 @@ const APP_SHELL = [
     'img/avatars/wolverine.jpg',
     'js/app.js',
     'js/sw-utils.js',
-    "img/icon/icon-72x72.png",
-    "img/icon/icon-96x96.png",
-    "img/icon/icon-128x128.png",
-    "img/icon/icon-144x144.png",
-    "img/icon/icon-152x152.png",
-    "img/icon/icon-192x192.png",
-    "img/icon/icon-384x384.png",
-    "img/icon/icon-512x512.png"
+    "img/icons/icon-72x72.png",
+    "img/icons/icon-96x96.png",
+    "img/icons/icon-128x128.png",
+    "img/icons/icon-144x144.png",
+    "img/icons/icon-152x152.png",
+    "img/icons/icon-192x192.png",
+    "img/icons/icon-384x384.png",
+    "img/icons/icon-512x512.png"
 ];
 
 const APP_SHELL_INMUTABLE = [
