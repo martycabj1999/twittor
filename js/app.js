@@ -21,7 +21,7 @@ var timeline = $('#timeline');
 
 var modal = $('#modal');
 var modalAvatar = $('#modal-avatar');
-var avatarBtns = $('.seleccion-avatar');
+var avatarBtns = $('#seleccion-avatar');
 var txtMensaje = $('#txtMensaje');
 
 // El usuario, contiene el ID del héroe seleccionado
