@@ -22,6 +22,7 @@ const APP_SHELL = [
     "img/icon/icon-128x128.png",
     "img/icon/icon-144x144.png",
     "img/icon/icon-152x152.png",
+    "img/icon/icon-192x192.png",
     "img/icon/icon-384x384.png",
     "img/icon/icon-512x512.png"
 ];
