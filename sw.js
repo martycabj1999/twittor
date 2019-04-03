@@ -8,6 +8,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 const APP_SHELL = [
     //'/',
     'index.html',
+    'page.html',
     'css/style.css',
     'img/favicon.ico',
     'img/avatars/spiderman.jpg',
